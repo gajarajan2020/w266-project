@@ -1,2 +1,2 @@
-# W210-2023-mlDBew
-This is a capstone project 
+# W266-project
+This is project repository for w266
