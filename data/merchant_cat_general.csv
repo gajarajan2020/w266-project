@@ -1,0 +1,14 @@
+name,from,to,logo
+Agricultural Services,	0001,	1499,static/icons/agricultural_services.png
+Contracted Services,	1500,	2999,static/icons/contracted_services.png
+Transportation Services,	4000,	4799,static/icons/transportation_services.png
+Utility Services,	4800,	4999,utility_services/static/icons/utility_services.png
+Retail Outlet Services,	5000,	5599,static/icons/retail_outlet_services.png
+Clothing Stores,	5600,	5699,static/icons/clothing_stores.png
+Miscellaneous Stores,	5700,	7299,static/icons/miscellaneous_stores.png
+Business Services,	7300,	7999,static/icons/business_services.png
+Professional Services and Membership Organizations,	8000,	8999,static/icons/professional_services_and_membership_organizations.png
+Government Services,	9000,	9999,static/icons/government_services.png
+Airlines,	3000,	3299,airlines/static/icons/airlines.png
+Car Rental,	3300,	3499,static/icons/car_rental.png
+Lodging	,3500,	3999,static/icons/lodging.png
